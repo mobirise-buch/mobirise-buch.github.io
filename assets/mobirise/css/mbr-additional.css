@@ -399,6 +399,12 @@ nav.opened .hamburger span {
 #header1-i {
 }
 
+#content1-k {
+}
+
+#content4-l {
+}
+
 #contacts3-j {
 }
 
@@ -500,7 +506,4 @@ padding-bottom: (@paddingBottom * 15px);
 .mbr-navbar__hamburger {
   color: #ffffff;
 }
-}
-
-#content1-k {
 }
